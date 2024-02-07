@@ -22,3 +22,4 @@ Currently, I enjoy working with React, Svelte.js, pure CSS/HTML/JS, Node.js, & S
 Exploring Svelte, TailwindCSS, & Firebase.
 
 
+![My Tech Stack](https://github.com/shgnplaatjies/shgnplaatjies/assets/63879125/96bbd206-d7a5-42c2-b576-fe75ebe02d87)
