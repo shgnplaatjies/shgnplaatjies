@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**shgnplaatjies/shgnplaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi I'm Shagan 👋 
 
-Here are some ideas to get you started:
+## A Software Developer ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub - home of all my software projects :)
+
+### Let's Build Stuff 👨‍💻
+
+💼 LinkedIn -> https://www.linkedin.com/in/shaganplaatjies
+
+💻 Freelancing -> https://pixelscape.co.za
+
+🔥 Live Projects -> https://projects.pixelscape.co.za
+
+### Favorite Tech 🤟
+
+Currently, I enjoy working with React, Svelte.js, pure CSS/HTML/JS, Node.js, & SQL.
+
+### Currently Learning 💭
+
+Exploring Svelte, TailwindCSS, & Firebase.
+
+
