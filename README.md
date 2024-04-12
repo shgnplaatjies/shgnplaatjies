@@ -11,15 +11,13 @@ Welcome to my GitHub - home of all my software projects :)
 
 💻 Freelancing -> https://pixelscape.co.za
 
-🔥 Live Projects -> https://projects.pixelscape.co.za
-
 ### Favorite Tech 🤟
 
-Currently, I enjoy working with React, Svelte.js, pure CSS/HTML/JS, Node.js, & SQL.
+I enjoy working with React, Svelte.js, Tailwind CSS, Node, Django, and WordPress custom plugin development.
 
-### Currently Learning 💭
+### Currently Exploring 💭
 
-Exploring Svelte, TailwindCSS, & Firebase.
+Exploring Svelte, custom WordPress development, & Firebase.
 
 
 ![My Tech Stack](https://github.com/shgnplaatjies/shgnplaatjies/assets/63879125/96bbd206-d7a5-42c2-b576-fe75ebe02d87)
