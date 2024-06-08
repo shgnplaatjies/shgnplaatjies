@@ -19,7 +19,7 @@ I enjoy working with React, Next.js, Tailwind CSS, Node and Express development.
 
 ### Currently Exploring 💭
 
-I am exploring Svelte, custom WordPress development, & Firebase.
+Multiple tech stacks but currently serverless development with Next.js.
 
 
 ![My Tech Stack](https://github.com/shgnplaatjies/shgnplaatjies/assets/63879125/96bbd206-d7a5-42c2-b576-fe75ebe02d87)
