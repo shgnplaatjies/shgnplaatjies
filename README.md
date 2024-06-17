@@ -8,11 +8,7 @@
 
 ### Contact 💭
 
-#### [`Business -> 💼`](https://www.linkedin.com/in/shaganplaatjies)
-
-#### [`Personal -> ☕`](https://shaganplaatjies.co.za)
-
-#### [`Both     -> 💻`](https://pixelscape.co.za)
+#### [`Business -> 💼`](https://www.linkedin.com/in/shaganplaatjies) [`Personal -> ☕`](https://shaganplaatjies.co.za)
 
 ### Faves 🤟
 
