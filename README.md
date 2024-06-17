@@ -1,25 +1,21 @@
 
-## Hi I'm Shagan 👋 
+# Shagan Plaatjies ☕
 
-## A Software Developer ☕
+#### Check out my software. 👋
 
-Welcome to my GitHub - home of all my software projects :)
+### The Pudding 🔍
+[![GitHub Streak](https://streak-stats.demolab.com?user=shgnplaatjies)](https://git.io/streak-stats)
 
-### Let's Build Stuff 👨‍💻
+### Contact 💭
 
-💼 LinkedIn -> https://www.linkedin.com/in/shaganplaatjies
+#### [`Business -> 💼`](https://www.linkedin.com/in/shaganplaatjies)
 
-☕ Personal -> https://shaganplaatjies.co.za
+#### [`Personal -> ☕`](https://shaganplaatjies.co.za)
 
-💻 Freelancing -> https://pixelscape.co.za
+#### [`Both     -> 💻`](https://pixelscape.co.za)
 
-### Favorite Tech 🤟
+### Faves 🤟
 
-I enjoy working with React, Next.js, Tailwind CSS, Node and Express development.
-
-### Currently Exploring 💭
-
-Multiple tech stacks but currently serverless development with Next.js.
-
+#### [`Fullstack =>🚀`](https://shaganplaatjies.co.za) `React`  |  `Tailwind`  |  `Next.js`  |  `Django`  |  `.NET`  |  `Express`
 
 ![My Tech Stack](https://github.com/shgnplaatjies/shgnplaatjies/assets/63879125/96bbd206-d7a5-42c2-b576-fe75ebe02d87)
