@@ -4,7 +4,9 @@
 #### Check out my software. 👋
 
 ### The Pudding 🔍
-[![GitHub Streak](https://streak-stats.demolab.com?user=shgnplaatjies)](https://git.io/streak-stats)
+[![My GitHub Streak](https://streak-stats.demolab.com?user=shgnplaatjies)](https://git.io/streak-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shgnplaatjies&repo=github-readme-stats)](https://github.com/shgnplaatjies/github-readme-stats)
 
 ### Contact 💭
 
